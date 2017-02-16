@@ -1,0 +1,80 @@
+html { background: #f3ffcf}
+
+p {font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 14pt;
+  text-align: left;
+    margin-left: 40px;
+  color: #505050}
+
+h1 {font-family: "Trebuchet MS", Helvetica, sans-serif;;
+  font-size: 24pt;
+  text-align: left;
+  margin-left: 15px;
+  color: #505050}
+
+h2 {font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 24pt;
+  text-align: center;
+  color: #505050}
+
+h3 {font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 18pt;
+  text-align: left;
+    margin-left: 40px;
+  color: #505050}
+
+input {font-family: "Arial", sans-serif;
+  font-size: 12pt;
+  text-align: left;
+  color: #505050}
+
+hr {background-color: #505050;
+  height: 3px;
+  border-color: #505050;
+  width: 100%;}
+
+img {float: center;
+	vertical-align: middle;}
+
+table {background-color: #f3ffcf;
+	/*border: 3px solid black;*/
+	width: auto;
+    padding: 5px;
+    border-spacing: 3px} 
+
+td {font-family: arial;
+  /*border: 3px solid black;*/
+  font-size: 14pt;
+  text-align: left;
+  color: #505050}
+ 
+
+th {font-family: "Trebuchet MS", Helvetica, sans-serif;
+  /*border: 3px solid black;*/
+  font-size: 16pt;
+  text-align: center;
+  color: #505050}
+/*
+dt {font-family: arial;
+  font-size: 14pt;
+  color: white;
+  font-weight: bold}
+
+dd {font-family: arial;
+  font-size: 12pt;
+  color: white}
+
+img {float: left}
+
+ol {font-family: arial;
+  font-size: 12pt;
+  color: white}
+
+ul {font-family: arial;
+  font-size: 12pt;
+  color: white;
+  list-style-type: circle}
+
+a:link {color: red}
+a:visited {color: red}
+a:active {color: red}*/
